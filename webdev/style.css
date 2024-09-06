@@ -169,7 +169,7 @@ span{
 }
 
 .typing-text span::after{
-    content: "Innovation";
+    content: "";
     background-color: transparent;
     position: absolute;
     width: calc(100% + 8px);
@@ -198,7 +198,7 @@ span{
         content:" Biotechnical Engineers";
     }
     61%, 70%{
-        content:" Best Mentors"
+        content:" Innovation"
     }
     71%, 80%{
         content:" Learning Oppurtunity"
